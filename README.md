@@ -1,4 +1,4 @@
-# ONLINE-BRANDING-SYSTEM-PP-
+# ONLINE BRANDING SYSTEM
 Online Branding System is a web application based on recommendation system algorithms which helps to promote local, small – big organization. In this world of technology, the internet has been the great platform to promote and operate any business without any geological boundaries. Thus, the concept of recommendation system has been used in this project which will recommend the brands or business to the end users according to their interests without any hassle.
 
 ## IMPORTANT FEATURES OF THE PROJECT
